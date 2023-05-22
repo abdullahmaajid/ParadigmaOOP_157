@@ -13,5 +13,6 @@ public:
 	~ibu() {
 		cout << "Ibu \"" << nama << "\" tidak ada \n";
 	}
-};
+	void tambahAanak(anak*);
+	void cetakAnak();
 };
