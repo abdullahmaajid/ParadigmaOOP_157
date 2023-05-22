@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_157", "ParadigmaOOP_157\ParadigmaOOP_157.vcxproj", "{D66291B5-5488-46B8-8E00-7D7B14A44CA4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainA", "mainA\mainA.vcxproj", "{CDF3F05A-7A3E-434F-B067-8B8F16144851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -27,6 +29,18 @@ Global
 		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x64.Build.0 = Release|x64
 		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x86.ActiveCfg = Release|Win32
 		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x86.Build.0 = Release|Win32
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Debug|arm64.ActiveCfg = Debug|arm64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Debug|arm64.Build.0 = Debug|arm64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Debug|x64.ActiveCfg = Debug|x64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Debug|x64.Build.0 = Debug|x64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Debug|x86.Build.0 = Debug|Win32
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Release|arm64.ActiveCfg = Release|arm64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Release|arm64.Build.0 = Release|arm64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Release|x64.ActiveCfg = Release|x64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Release|x64.Build.0 = Release|x64
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Release|x86.ActiveCfg = Release|Win32
+		{CDF3F05A-7A3E-434F-B067-8B8F16144851}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
