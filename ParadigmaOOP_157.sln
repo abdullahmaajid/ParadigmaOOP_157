@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_157", "ParadigmaOOP_157\ParadigmaOOP_157.vcxproj", "{D66291B5-5488-46B8-8E00-7D7B14A44CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Debug|arm64.ActiveCfg = Debug|arm64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Debug|arm64.Build.0 = Debug|arm64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Debug|x64.ActiveCfg = Debug|x64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Debug|x64.Build.0 = Debug|x64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Debug|x86.Build.0 = Debug|Win32
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|arm64.ActiveCfg = Release|arm64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|arm64.Build.0 = Release|arm64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x64.ActiveCfg = Release|x64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x64.Build.0 = Release|x64
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x86.ActiveCfg = Release|Win32
+		{D66291B5-5488-46B8-8E00-7D7B14A44CA4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68770E7E-679A-440E-944A-EF7684195DF5}
+	EndGlobalSection
+EndGlobal
